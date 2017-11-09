@@ -66,7 +66,7 @@ wptKey: "508d10a2cebb9c2066722d6023856c9e2a7ac99a52fa7027c2ec3dc625f2ccbac4b2"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-alerts:
-  emailAlert:
-    type: "email"
-    recipients: ["7cca49b788f5952b39260f657e803dcb367f96c4"]
+#alerts:
+#  emailAlert:
+#    type: "email"
+#    recipients: ["7cca49b788f5952b39260f657e803dcb367f96c4"]
